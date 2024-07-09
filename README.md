@@ -6,3 +6,5 @@
 * Image Manipulation
 * Image Annotations
 * Image Enhancement
+* Accessing Camera
+* Video Writing
