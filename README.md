@@ -10,3 +10,4 @@
 * Accessing Camera
 * Video Writing
 * Image Filtering
+* Image Features and Alignment
