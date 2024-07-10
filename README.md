@@ -8,3 +8,4 @@
 * Image Enhancement
 * Accessing Camera
 * Video Writing
+* Image Filtering
