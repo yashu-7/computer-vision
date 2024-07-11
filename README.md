@@ -11,3 +11,5 @@
 * Video Writing
 * Image Filtering
 * Image Features and Alignment
+* Creating Panorama
+* High Dynamic Range
