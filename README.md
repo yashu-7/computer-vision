@@ -13,3 +13,4 @@
 * Image Features and Alignment
 * Creating Panorama
 * High Dynamic Range
+* Object Tracking
