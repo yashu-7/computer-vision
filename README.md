@@ -14,3 +14,4 @@
 * Creating Panorama
 * High Dynamic Range
 * Object Tracking
+* Face Detection
